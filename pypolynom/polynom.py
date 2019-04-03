@@ -1,6 +1,6 @@
 # coding: utf-8
 
-"""This is a simple demonstration library"""
+""" This is a simple demonstration library """
 
 __authors__ = ["Pierre Knobel", "Jerome Kieffer", "Pierre Palero",
                "Henri Payno", "Armando Sole", "Valentin Valls",
