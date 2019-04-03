@@ -22,6 +22,7 @@ def polynom(a, b, c):
     :param float c: c value of the polynom
     :rtype: List[float]
     """
+
     if a == 0:
         # Not a polynom
         raise ValueError("Not a quadratic equation (a==0)")
