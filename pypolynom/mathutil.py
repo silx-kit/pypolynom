@@ -15,3 +15,7 @@ def sqrt(x):
 
 def pow2(x):
     return x*x
+
+
+def pow3(x):
+    return x*x*x
